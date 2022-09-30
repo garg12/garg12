@@ -1,0 +1,12 @@
+1. Find Pair with given Sum in the array.
+-- We will Store Each Element and will Check the existance of sum - element Existance. 
+
+2. Find Sub-Array With Zero Sum.
+-- Insert Zero in the starting.
+-- Insert the Sum at each element in Map and Monitor if that sum appears again in the Further Itertion if Yes than Means Zero Sub-Array Sum Exists.
+
+3. Sort Binary Array in Linear Time.
+-- Iterate For Loop in Forward Direction and Count Number of Zero. and then Insert First That Many Zero in Array and (arr.length- Zero's Count) in to that Array.
+
+4. Find the largest Sub Array Formed by Consecutive integers.
+-- 
